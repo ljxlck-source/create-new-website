@@ -72,7 +72,7 @@ export default function AdvantageSummary() {
               Available for rental companies, integrators & procurement teams.
             </p>
             <a
-              href="#"
+              href="https://wa.me/8615820877393"
               className="group inline-flex items-center gap-2 rounded-md bg-brand px-7 py-3 text-sm font-semibold text-brand-foreground transition-all duration-200 hover:bg-brand-light"
             >
               Contact via WhatsApp
