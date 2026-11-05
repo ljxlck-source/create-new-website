@@ -73,6 +73,8 @@ export default function AdvantageSummary() {
             </p>
             <a
               href="https://wa.me/8615820877393"
+              target="_blank"
+              rel="noopener noreferrer"
               className="group inline-flex items-center gap-2 rounded-md bg-brand px-7 py-3 text-sm font-semibold text-brand-foreground transition-all duration-200 hover:bg-brand-light"
             >
               Contact via WhatsApp
